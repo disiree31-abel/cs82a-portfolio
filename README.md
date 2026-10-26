@@ -2,6 +2,7 @@
 My name is Disiree Abel.
 I am learning Python, data analysis, and programming through CS82A otherwise known as Computer Science & Information Systems.
 This repository contains my coursework and projects from the course. Module 2: Python foundations.
+
 **Findings and Results**
 
 This project explored whether study time and the number of absences could help predict students' final grades. The dataset contained 649 student records. No duplicate rows or missing values were found in the selected columns, so no records were removed during cleaning.
